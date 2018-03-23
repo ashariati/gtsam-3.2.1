@@ -26,6 +26,7 @@
 #include <cmath>
 #include <boost/mpl/has_xxx.hpp>
 #include <boost/utility/enable_if.hpp>
+#include <boost/serialization/serialization.hpp>
 #include <boost/serialization/nvp.hpp>
 #include <boost/serialization/set.hpp>
 
